@@ -1,16 +1,16 @@
 {
-  "name": "untitled",
+  "name": "Demo1",
   "version": "1.0.0",
   "description": "bootstrap4 workflow",
   "main": "index.js",
   "scripts": {
-   "start": "gulp"
+    "start": "gulp"
   },
   "author": "RuiHu",
   "license": "MIT",
   "dependencies": {
     "bootstrap": "^4.0.0-beta",
-    "font-awesome": "^4.7.0",
+    "font-awesome": "^4.2.0",
     "jquery": "^3.2.1",
     "popper": "^1.0.0",
     "popper.js": "^1.11.0"
