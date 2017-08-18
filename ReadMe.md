@@ -1,5 +1,5 @@
 # bootstrap4-workflow
-This is a simple template for  <span style="color:red">bootstrap4-beta</span> verison,
+This is a simple template for [bootstrap4-beta](https://getbootstrap.com/) verison,
 you can use it to convert **sass to css** file and auto serve function will auto deploy your changing code.
 
 
