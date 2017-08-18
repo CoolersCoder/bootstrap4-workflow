@@ -3,7 +3,7 @@ This is a simple template for [bootstrap4-beta](https://getbootstrap.com/) veris
 you can use it to convert **sass to css** file and auto serve function will auto deploy your changing code.
 
 
-Tools list:
+## Tools list:
    * bootstrap: 4.0.0-beta
    * font-awesome:4.7.0
    * jquery:3.2.1
@@ -12,7 +12,7 @@ Tools list:
    * gulp:3.9.1
    * gulp-sass:3.1.0
 
-Start command:
+## Getting Start:
 ```
 npm start
 ```
