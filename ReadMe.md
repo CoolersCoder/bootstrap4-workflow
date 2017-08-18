@@ -13,6 +13,6 @@ you can use it to convert **sass to css** file and auto serve function will auto
    * gulp-sass:3.1.0
 
 ## Getting Start:
-```
+```sh
 npm start
 ```
